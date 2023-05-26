@@ -1,0 +1,93 @@
+body{
+    font-family: sans-serif;
+    background-image: url(./one.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    color: white;
+}
+
+
+.features-list .features-description span{
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 38px;
+}
+
+
+.features-description p{
+    font-weight: bold;
+    color: white;
+    
+    
+}
+
+
+.features-heading:before{
+    content: "";
+    position: absolute;
+    width: 100px;
+    height: 8px;
+    background: white;
+}
+
+
+h2{
+    font-size: 46px;
+    font-weight: 400;
+    color: white;
+    letter-spacing: 2px;
+}
+
+
+.features-heading p{
+    width: 70%;
+    font-size: 25px;
+}
+
+
+.btn{
+    background: deepskyblue;
+    padding: 13px 35px;
+    border: 0px;
+    border-radius: 50px;
+    /* margin-top: 30px; */
+}
+
+.features-description p{
+    background: white;
+    padding: 5px;
+    width: 99px;
+    margin-top: 10px;
+    text-transform: capitalize;
+    color: black;
+    border-radius: 50px;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+
+
+.features-description span{
+    font-size: 37px;
+}
+
+
+span.counter{
+    font-size: 55px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
